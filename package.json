@@ -1,0 +1,29 @@
+{
+  "name": "berkay-deneme",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "berkay": "echo 'Benim Adım Berkay'",
+    "starttt": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paketi"
+  ],
+  "author": "Berkay Tuluk",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.4.0",
+    "nodemailer": "^6.7.5",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BerkayTuluk/berkay-tuluk-deneme.git"
+  }
+}
